@@ -1,0 +1,50 @@
+@charset "UTF-8";
+ul#sbn li#um{
+    margin-left: 10px;
+    background: url("../yuri.jpeg");
+    width: 300px;
+    height: 250px;
+    background-size: 250px 300px;
+    border: black solid;
+    border-radius: 250px ;
+}
+ul#sbn li{
+    list-style: none;
+    margin-bottom: 50px;
+}
+ul#sbn li#dois{
+    margin-left: 10px;
+    background: url("../yuri.jpeg");
+    width: 300px;
+    height: 250px;
+    background-size: 250px 300px;
+    border: black solid;
+    border-radius: 250px ;
+}
+ul#sbn li#tres{
+    margin-left: 10px;
+    background: url("../yuri.jpeg");
+    width: 300px;
+    height: 250px;
+    background-size: 250px 300px;
+    border: black solid;
+    border-radius: 250px ;
+}
+ul#sbn li#um p#yuri{
+   margin-left: 80px;
+   margin-top: 260px;
+   margin-left: 100px;
+   font-family: sans-serif arial;
+}
+ul#sbn li#dois p#douglas{
+    margin-left: 80px;
+    margin-top: 260px;
+    margin-left: 100px;
+    font-family: sans-serif arial;
+ }
+ ul#sbn li#tres p#haquila{
+    margin-left: 80px;
+    margin-top: 260px;
+    margin-left: 100px;
+    font-family: sans-serif arial;
+ }
