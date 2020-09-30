@@ -17,7 +17,7 @@ ul#sbn li#dois{
     background: url("../douglas.jpg");
     width: 300px;
     height: 250px;
-    background-size: 250px 300px;
+    background-size: 300px 300px;
     border: black solid;
     border-radius: 250px ;
 }
@@ -26,7 +26,7 @@ ul#sbn li#tres{
     background: url("../haquila.jpeg");
     width: 300px;
     height: 250px;
-    background-size: 250px 300px;
+    background-size: 300px 300px;
     border: black solid;
     border-radius: 250px ;
 }
@@ -54,7 +54,7 @@ ul#sbn li#dois p#douglas{
    position: absolute;
  }
  div#d1{
-     background-color: rgba(33, 33, 46, 0.9);
+     background-color: rgba(64, 64, 85, 0.9);
  }
 p{
     font-size: 20px;
